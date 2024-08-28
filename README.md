@@ -1,6 +1,6 @@
 # NotifyInterval
 This program plays notification after given interval n times.<br/>
->This is useful to remind take water breaks
+>This is useful to remind take water breaks during workday
 
 ## Run
  `python notify.py <minutes-between-notifications> <n-times>`
